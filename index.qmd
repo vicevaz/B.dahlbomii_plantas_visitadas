@@ -1,0 +1,10 @@
+---
+title: "Rasgos funcionales de las plantas visitadas por *Bombus dahlbomii*"
+author: "Vicente Vázquez"
+format:
+  html:
+    theme: cosmo
+    toc: true
+---
+
+
