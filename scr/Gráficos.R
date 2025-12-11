@@ -9,7 +9,7 @@ visitas_por_familia <- read_csv("Data/visitas_por_familia_bd.csv")
 ## 2. Gráfico: Familias más visitadas por Bombus dahlbomii
 
 graf_familias <- visitas_por_familia %>% 
-  slice_max(n_registros, n = 10) %>%     # Top 10 familias (puedes cambiarlo)
+  slice_max(n_registros, n = 10) %>%     # Top 10 familias
   ggplot(aes(x = reorder(family_plants, n_registros),
              y = n_registros)) +
   geom_col(fill = "#FF7F00") +           # Naranjo "abejorro"
