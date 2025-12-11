@@ -2,7 +2,7 @@
 
 🐝🌿 Una aproximación para la selección de especies de flora que favorezcan el hábitat de un polinizador en peligro.🌿🐝
 
-Este repositorio contiene el análisis exploratorio y la visualización de datos asociados a las principales plantas nativas visitadas por *Bombus dahlbomii* en Chile.
+Este repositorio contiene el análisis exploratorio y la visualización de datos asociados a las principales familias de plantas nativas visitadas por *Bombus dahlbomii* en Chile.
 
 ---
 
@@ -14,7 +14,7 @@ Durante las últimas décadas, sus poblaciones han sufrido un declive acelerado 
 El presente análisis utiliza una aproximación basada en rasgos funcionales, utilizando el dataset *Rasgos-CL* de dylancraven, de las plantas visitadas por B. dahlbomii. Este enfoque permite ir más allá del listado puntual de especies presentes en los registros asociados al abejorro, extraidos del dataset *pollination_catalogue* de Giselle Muschett y Francisco E. Fontúrbel, generalizando sus características florales preferidas, tales como forma, tamaño, color y fenología. Al identificar estos patrones funcionales, es posible inferir qué otras especies podrían ser igualmente valiosas para su alimentación, aunque no aparezcan explícitamente en el dataset, ofreciendo así una herramienta más flexible y robusta para diseñar procesos de restauración y manejo del hábitat.
 
 ## 📍Objetivo
-Identificar los rasgos funcionales de las principales especies vegetales visitadas por *Bombus dahlbomii*, con el fin de poder guiar acciones de restauración ecológica y selección de flora favorable para este polinizador nativo en peligro.
+Identificar los rasgos funcionales de las principales familias vegetales visitadas por *Bombus dahlbomii*, con el fin de poder guiar acciones de restauración ecológica y selección de flora favorable para este polinizador nativo en peligro.
 
 ## 🎓Audiencia
 Este análisis está dirigido a estudiantes, investigadores y profesionales interesados en la conservación de polinizadores nativos, la restauración ecológica y la ecología funcional. También puede ser útil para tomadores de decisiones y gestores ambientales que buscan seleccionar flora nativa adecuada para apoyar a *Bombus dahlbomii* en paisajes tanto productivos como naturales.
@@ -32,7 +32,7 @@ Repositorio: https://github.com/dylancraven/Rasgos-CL
 
 2. `pollination_catalogue.csv`
 Corresponde a un catálogo de interacciones planta–polinizador en Chile.    
-Desde este dataset se filtran específicamente las interacciones asociadas a *Bombus dahlbomii* para identificar qué especies de plantas utiliza este polinizador nativo.
+Desde este dataset se filtran específicamente las interacciones asociadas a *Bombus dahlbomii* para identificar qué especies de plantas y sus familias utiliza este polinizador nativo.
 
 Fuente: Catálogo de interacciones planta–polinizador de Chile.  
 Autores: Fontúrbel, F. E., González-Lagos, C., & Medel, R. 
