@@ -60,7 +60,7 @@ B.dahlbomii_plantas_visitadas/
 ```
 --- 
 ## 📊Resultados
-
+![Familias más visitadas](Outputs/familias_mas_visitadas.png)
 
 ---
 ## 🐝🌾Autor
