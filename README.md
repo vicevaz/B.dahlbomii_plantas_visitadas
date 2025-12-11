@@ -16,6 +16,9 @@ El presente análisis utiliza una aproximación basada en rasgos funcionales, ut
 ## Objetivo
 Identificar los rasgos funcionales de las principales especies vegetales visitadas por *Bombus dahlbomii*, con el fin de poder guiar acciones de restauración ecológica y selección de flora favorable para este polinizador nativo en peligro.
 
+## Audiencia
+Este análisis está dirigido a estudiantes, investigadores y profesionales interesados en la conservación de polinizadores nativos, la restauración ecológica y la ecología funcional. También puede ser útil para tomadores de decisiones y gestores ambientales que buscan seleccionar flora nativa adecuada para apoyar a *Bombus dahlbomii* en paisajes tanto productivos como naturales.
+
 ## Estructura del repositorio
 
 ```
@@ -37,7 +40,10 @@ B.dahlbomii_plantas_visitadas/
 └── README.md                  
 ```
 --- 
+## Resultados
 
+
+---
 ## Bibliografía
 
 Montalva, J., Ruz, L., & Arroyo, M. T. (2011). Abejorros nativos de Chile y flores asociadas.
